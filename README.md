@@ -1,4 +1,4 @@
-# Project-2--Acquisition
+# [Project-2--Acquisition](https://github.com/sachinanm/Project-2--Acquisition)
 Optiveriance company is planning to be merged with company PDCL ltd
 So need to analysis the profit ,sales ,revenue,customer  of Optiveriance for a smooth flow.
 
